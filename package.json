@@ -1,6 +1,7 @@
 {
   "name": "a03-jykim111",
   "version": "0.1.0",
+  "type": "module",
   "description": "Build an API to flip some coins.",
   "main": "server.js",
   "scripts": {
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/comp426-2022-spring/a03-jykim111#readme",
   "dependencies": {
     "express": "^4.17.2",
+    "nodemon": "^2.0.15",
     "yargs": "^17.3.1"
   }
 }
